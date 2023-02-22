@@ -1,0 +1,4 @@
+1. Pilih Folder 2110410278_E 
+2. Run pada file img_viewer.py
+3. Browse folder gambar yang akan di proses (dikenai fitur-fitur)
+4. Pilih fitur yang akan digunakan
